@@ -3,7 +3,7 @@
 
 # Econometrics Experiment Activity:
 
-with your group suggest and research one question that can be anserwed using economic or market data.
+
 
 Research Question:
    <What are the factors that affect a restaurant’s entry and exit into a market?>
